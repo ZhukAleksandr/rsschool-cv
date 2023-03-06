@@ -78,5 +78,13 @@ Communications**
       2. Working with reports  
       3. Market analysis  
 
+********* 
+## Languages
++ **English** - B1 (in progress)
+  >+ Skyeng language school   
+  >+ Regular talks with native speakers  
+  >+ Different language apps
++ **Belarussian** - native speaker
++ **Russian** - native speaker    
 
 
