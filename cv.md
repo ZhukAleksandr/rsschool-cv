@@ -87,4 +87,11 @@ Communications**
 + **Belarussian** - native speaker
 + **Russian** - native speaker    
 
+********* 
+## HOBBIES AND INTERESTS
++ fishing  
++ football  
++ reading  
++ traveling
+
 
