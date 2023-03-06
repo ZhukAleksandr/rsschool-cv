@@ -36,6 +36,26 @@ function noSpace(x){
   return x.replace(/ /g,'');
 }
 ```
+********* 
+## Education
++ **Online courses Redev** 
+  > + Feb 2023 - Present  
+    Front-end developer: JS,
+React/Redux
++ **Online courses Udemy** 
+  >  + Jan 2023 - Present  
+    Front-end developer: JavaScript,
+React
+  >  + May 2022 - Dec 2022  
+    Web developer: basics of web-development
++ **Educational Center for Programming
+and High Tech (IT-Academy)**
+  >  + Nov 2020 - Feb 2021  
+    BUSINESS ANALYSIS FOR IT
++ **Belarusian State Academy of
+Communications**
+  >  + Jun 2009 - Jul 2013  
+    Economics at the enterprise
 
 
 
