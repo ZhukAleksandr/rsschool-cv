@@ -20,5 +20,22 @@
 - Git/GitHub 
 - Figma, Avocode, Adobe Photoshop
 - Xmind, Bizagi Process Modeler
+********* 
+## Code Examples
+*Reverse words*
+``` 
+function sumTwoSmallestNumbers(numbers) {  
+  return numbers.sort(function(a,b) {
+        return a-b;
+    }).slice(0, 2).reduce((acc, item) => (acc + item));
+}
+```
+*Remove String Spaces*
+```
+function noSpace(x){
+  return x.replace(/ /g,'');
+}
+```
+
 
 
