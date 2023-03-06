@@ -57,5 +57,26 @@ Communications**
   >  + Jun 2009 - Jul 2013  
     Economics at the enterprise
 
+********* 
+## Experience
++ **LLC «RBB moto», Belarus**
+  >  + May 2013 - Present  
+    **Vice Director**  
+    Main responsibilities:  
+      1. Human resources management  
+      2. Purchasing management  
+      3. Sales management  
+      4. Maintaining elementary accounting  
+      5. Website management and updating
+      6. Creation of the procurement documentation in the database of 1C  
+      7. Work with social networks
++ **LLC «Mikam», Belarus**
+  >  + Jul 2012 - May 2013  
+    **Economist**  
+    Main responsibilities:  
+      1. Calculation of the cost of production  
+      2. Working with reports  
+      3. Market analysis  
+
 
 
