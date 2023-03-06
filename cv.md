@@ -9,3 +9,6 @@
 + **GitHub:**: [ZhukAleksandr](https://github.com/ZhukAleksandr)
 + **LinkedIn:**: [Zhuk Alexander](https://www.linkedin.com/in/zhuk-alexander-7a4095208/)
 ********* 
+## About Me
+ I have been working in the sales sphere for more than ten years but now I have a goal to start a new career as a **front-end developer**.    
+  I am a well-organized and collaborative team player with strong communication and analytical abilities. Strive for self-actualization and self-improvement.
